@@ -1,6 +1,6 @@
 # OneSignal + Vue.js
 
-This example project demonstrates how to integrate OneSignal into your Vue.js app. You can use this project as a boilerplate or a reference for your project.
+This example project demonstrates how to integrate the [OneSignal Vue.js plugin](https://www.npmjs.com/package/onesignal-vue) into your Vue.js app. You can use this project as a boilerplate or a reference for your project.
 
 If you are interested in learning more about this project, check out [this blog post](#link).
 
